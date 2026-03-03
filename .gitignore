@@ -207,15 +207,18 @@ marimo/_lsp/
 __marimo__/
 
 # Ignore API keys
-Meteostat_API_Key.txt
+Meteostat API Key.txt
 
 # Ignore config + cache folders
 config/
 cache/
 
 # ignoring final data populated from API call
-Airport_Weather_Data.csv
+Airport Weather Data.csv
 
 # ignoring file of all weather stations
 
-List_of_All_Weather_Stations.json
+List of All Weather Stations.json
+
+# ignoring the local cache made for API calls
+weather_cache.sqlite
