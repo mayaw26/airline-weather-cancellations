@@ -212,3 +212,10 @@ Meteostat_API_Key.txt
 # Ignore config + cache folders
 config/
 cache/
+
+# ignoring final data populated from API call
+Airport_Weather_Data.csv
+
+# ignoring file of all weather stations
+
+List_of_All_Weather_Stations.json
